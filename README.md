@@ -16,5 +16,9 @@ Lesson 4 about MapReduce Design Patterns
 - Structural Pattern: combine_datasets
 
 Final Project Introduction from Udacity:
+-student time
+-post and answer length
+-top tag
+-study group
 
 
